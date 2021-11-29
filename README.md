@@ -11,6 +11,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+The project is a Python3 script to scrape the top 100 players on futbin.
+The main.py scrapes the player-id (pid) of the current top 100 players on futbin. 
+The scraped pid is used in a GET request to get al the data of the player with the pid. 
+The requested data is parsed and saved in players.json file. 
+
 <h4 align="center">Screenshot of futbin.com.</h4>
 
 ![Futbin screenshot](images/futbin_screenshot.png)
@@ -19,10 +24,6 @@
 
 ![Futbin screenshot](images/json_screenshot.png)
 
-The project is a Python3 script to scrape the top 100 players on futbin.
-The main.py scrapes the player-id (pid) of the current top 100 players on futbin. 
-The scraped pid is used in a GET request to get al the data of the player with the pid. 
-The requested data is parsed and saved in players.json file. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
