@@ -13,11 +13,12 @@
 
 <h4 align="center">Screenshot of futbin.com.</h4>
 
-[![Product Name Screen Shot][product-screenshot]](images/futbin_screenshot.png)
+You can display an image by adding ! and wrapping the alt text in[ ]. Then wrap the link for the image in parentheses ().
+![Futbin screenshot](images/futbin_screenshot.png)
 
 <h4 align="center">Screenshot of the collected data in the 'Players.json' file.</h4>
 
-[![Product Name Screen Shot][product-screenshot]](images/json_screenshot.png)
+![Futbin screenshot](images/json_screenshot.png)
 
 The project is a Python3 script to scrape the top 100 players on futbin.
 The main.py scrapes the player-id (pid) of the current top 100 players on futbin. 
