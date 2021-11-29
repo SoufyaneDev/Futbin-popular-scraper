@@ -13,7 +13,6 @@
 
 <h4 align="center">Screenshot of futbin.com.</h4>
 
-You can display an image by adding ! and wrapping the alt text in[ ]. Then wrap the link for the image in parentheses ().
 ![Futbin screenshot](images/futbin_screenshot.png)
 
 <h4 align="center">Screenshot of the collected data in the 'Players.json' file.</h4>
